@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264644162454",
+    "firebase_url": "https://food-allergence-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-allergence-app",
+    "storage_bucket": "food-allergence-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264644162454:android:7c5a8ec6951c87c68563b7",
+        "android_client_info": {
+          "package_name": "anushkakalra.app.food_allergens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264644162454-ebtsl1sovo2e2us1ahdcnbbahegivs4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEf-jUQQ5moY6gYOloQ4hN31v2YVluTvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264644162454-ebtsl1sovo2e2us1ahdcnbbahegivs4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

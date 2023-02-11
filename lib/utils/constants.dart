@@ -8,8 +8,8 @@ import 'package:flutter/material.dart';
 
 const double kAppBarHeight = 80;
 
-const String amazonLogoUrl =
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2500px-Amazon_icon.svg.png";
+const String groceasyLogoUrl =
+    "https://github.com/sam6coder/Idealect-AI/blob/master/images/logo.png";
 
 const List<String> categoriesList = [
   "Foodgrain, Oils and Masala",
@@ -51,14 +51,14 @@ const List<String> smallAds = [
 const List<String> adItemNames = ["Recharge", "Rewards", "Pay Bills"];
 
 //Dont even attemp to scroll to the end of this manually lmao
-const String amazonLogo =
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png";
+const String groceasyLogo =
+    "https://github.com/sam6coder/Idealect-AI/blob/master/images/logo.png";
 
 List<Widget> testChildren = [
   SimpleProductWidget(
     productModel: ProductModel(
         url: "https://m.media-amazon.com/images/I/71DhvrRKXPL._SL1200_.jpg",
-        productName: "Rohan Gupta",
+        productName: "Parle Hide n Seek",
         cost: 25,
         discount: 0,
         uid: "eioejfbkn",

@@ -26,11 +26,11 @@ OpenCV Python model has been used to detect allergens.
 
 Account screen           |  Cart screen                   | Home screen               | Home screen (continued)               | More screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![Account screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Account%20screen.jpg) | ![Cart screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Cart%20screen.jpg) | ![Home screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Home%20screen%201.jpg) | ![Home screen (continued)](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Home%20screen%202.jpg) | ![More screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/More%20screen.jpg)
+![Account screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/account%20screen.jpg) | ![Cart screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/cart%20screen.jpg) | ![Home screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/home%20screen%201.jpg) | ![Home screen (continued)](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/home%20screen%202.jpg) | ![More screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/more%20screen.jpg)
 
 Search screen            |  Sell screen                   | Sign in screen               | Sign up screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![Search screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Search%20screen.jpg) | ![Sell screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sell%20screen.jpg) | ![Sign in screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sign%20In%20screen.jpg) | ![Sign up screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sign%20Up%20screen.jpg)
+![Search screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/search%20screen.jpg) | ![Sell screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/sell%20screen.jpg) | ![Sign in screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/sign%20in%20screen.jpg) | ![Sign up screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/sign%20up%20screen.jpg)
 
 **OpenCV Model testing screenshots**
 

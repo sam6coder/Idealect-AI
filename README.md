@@ -36,7 +36,7 @@ Search screen            |  Sell screen                   | Sign in screen      
 
 Model 1 testing           |  Model 1 input                   | Model 1 output               | Model 2 testing           |  Model 2 input                   | Model 2 output
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![Model 1 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1%20OpenCV%20testing.jpg) | ![Model 1 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1.jpg) | ![Model 1 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1output.jpg) | ![Model 2 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2%20OpenCV%20testing.jpg) | !![Model 2 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2.webp) | ![Model 2 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2output.jpg)
+![Model 1 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1%20OpenCV%20testing.jpg) | ![Model 1 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1.jpg) | ![Model 1 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1output.jpg) | ![Model 2 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2%20OpenCV%20testing.jpg) | ![Model 2 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2.webp) | ![Model 2 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2output.jpg)
 
 
 ## Demo

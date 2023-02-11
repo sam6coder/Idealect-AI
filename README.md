@@ -21,25 +21,24 @@ OpenCV Python model has been used to detect allergens.
 
 
 ## Screenshots
+
 **Screens**
 
-![Account screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Account%20screen.jpg) | ![Cart screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Cart%20screen.jpg) 
-![Home screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Home%20screen%201.jpg)
-![Home screen (continued)](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Home%20screen%202.jpg)
-![More screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/More%20screen.jpg)
-![Search screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Search%20screen.jpg)
-![Sell screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sell%20screen.jpg)
-![Sign in screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sign%20In%20screen.jpg)
-![Sign up screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sign%20Up%20screen.jpg)
+Account screen           |  Cart screen                   | Home screen               | Home screen (continued)               | More screen
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![Account screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Account%20screen.jpg) | ![Cart screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Cart%20screen.jpg) | ![Home screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Home%20screen%201.jpg) | ![Home screen (continued)](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Home%20screen%202.jpg) | ![More screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/More%20screen.jpg)
+
+Search screen            |  Sell screen                   | Sign in screen               | Sign up screen
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![Search screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Search%20screen.jpg) | ![Sell screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sell%20screen.jpg) | ![Sign in screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sign%20In%20screen.jpg) | ![Sign up screen](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Sign%20Up%20screen.jpg)
 
 **OpenCV Model testing screenshots**
 
-![Model 1 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1%20OpenCV%20testing.jpg)
-![Model 1 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1.jpg)
-![Model 1 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1output.jpg)
-![Model 2 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2%20OpenCV%20testing.jpg)
-![Model 2 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2.webp)
-![Model 2 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2output.jpg)
+Model 1 testing           |  Model 1 input                   | Model 1 output               | Model 2 testing           |  Model 2 input                   | Model 2 output
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![Model 1 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1%20OpenCV%20testing.jpg) | ![Model 1 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1.jpg) | ![Model 1 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model1output.jpg) | ![Model 2 testing](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2%20OpenCV%20testing.jpg) | !![Model 2 input](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2.webp) | ![Model 2 output](https://github.com/sam6coder/Idealect-AI/blob/master/screenshots/Model2output.jpg)
+
+
 ## Demo
 
 Link to code Demo -

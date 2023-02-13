@@ -17,6 +17,7 @@ OpenCV Python model has been used to detect allergens.
 - Anushka Kalra: [@anushkakalra](https://github.com/AnushkaKalra)
 - Sanskriti Mamgain: [@sam6coder6](https://github.com/sam6coder)
 - Samana Butool Mirza: [@samana-bm20](https://github.com/samana-bm20)
+- Reva Teotia
 
 
 

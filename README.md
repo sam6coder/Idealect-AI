@@ -12,6 +12,12 @@ OpenCV Python model has been used to detect allergens.
 
 ![Logo](https://github.com/sam6coder/Idealect-AI/blob/master/images/logo.png?raw=true)
 
+## Authors
+
+- [@anushkakalra](https://github.com/AnushkaKalra)
+- [@sam6coder6](https://github.com/sam6coder)
+- [@samana-bm20](https://github.com/samana-bm20)
+
 
 ## 🔗 Links
 1. [Github Repo Link](https://github.com/sam6coder/Idealect-AI)
